@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dougall12
-- 👀 I’m interested in Javascript, web3, React, Cycling, Football
-- 🌱 I’m currently learning React, NextJs, Solidity
+- 👀 I’m interested in Javascript, Java, React, Cycling, Football
+- 🌱 I’m currently learning Java, NextJs, React, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Twitter - @steven_dougall
 
